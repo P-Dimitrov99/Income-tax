@@ -1,0 +1,6 @@
+c:\users\admin 1\documents\visual studio 2017\Projects\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe.config
+c:\users\admin 1\documents\visual studio 2017\Projects\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe
+c:\users\admin 1\documents\visual studio 2017\Projects\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.pdb
+c:\users\admin 1\documents\visual studio 2017\Projects\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csprojResolveAssemblyReference.cache
+c:\users\admin 1\documents\visual studio 2017\Projects\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.exe
+c:\users\admin 1\documents\visual studio 2017\Projects\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.pdb
